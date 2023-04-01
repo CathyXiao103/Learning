@@ -1,0 +1,15 @@
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.csproj.AssemblyReference.cache
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.AssemblyInfoInputs.cache
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.AssemblyInfo.cs
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.csproj.CoreCompileInputs.cache
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\bin\Debug\net6.0\ExcersiseOne.exe
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\bin\Debug\net6.0\ExcersiseOne.deps.json
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\bin\Debug\net6.0\ExcersiseOne.runtimeconfig.json
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\bin\Debug\net6.0\ExcersiseOne.dll
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\bin\Debug\net6.0\ExcersiseOne.pdb
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.dll
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\refint\ExcersiseOne.dll
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.pdb
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ExcersiseOne.genruntimeconfig.cache
+C:\Users\CXIAO\Downloads\ExcersiseOne (1)\ExcersiseOne\ExcersiseOne\obj\Debug\net6.0\ref\ExcersiseOne.dll
