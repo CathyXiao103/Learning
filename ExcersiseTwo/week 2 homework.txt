@@ -1,0 +1,11 @@
+Exercise: Implement a Counter class to demonstrate the difference between static and non-static objects.
+Instructions:
+1,Create a class named Counter.
+2,Add a non-static property named InstanceCount of type int with a private setter to the Counter class.
+3,Add a static property named TotalCount of type int with a private setter to the Counter class.
+4,Add a constructor to the Counter class that increments both the InstanceCount and TotalCount properties.
+5 Create a test class named CounterTests using Xunit.
+	Write unit tests to cover the following scenarios:Test the initial values of InstanceCount and TotalCount.
+	Test the values of InstanceCount and TotalCount after creating one Counter object.
+	Test the values of InstanceCount and TotalCount after creating multiple Counter objects.
+This exercise demonstrates the difference between static and non-static properties in a class. The InstanceCount property tracks the number of times a specific instance of the Counter class has been created, while the TotalCount property tracks the total number of times any Counter object has been created. By writing test cases to observe the behavior of these properties, you can see how static properties are shared across all instances of a class, while non-static properties are unique to each instance.
