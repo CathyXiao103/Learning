@@ -1,0 +1,18 @@
+Homework Instructions: (asterix * means optional, might be not too obvious)
+Objective:
+Extend the existing Animal project by creating new classes, adding custom methods, and covering the new objects and methods with unit tests. (*)Additionally, write unit tests to cover the main app functionality.
+Tasks:
+Create new classes:
+Create at least two new classes that inherit from the Animal class.
+Give each class a unique name and provide a relevant implementation for the Speak method.
+Add custom methods:
+Add at least one custom method to each of the new classes you created.
+Ensure that the methods are meaningful and relevant to the class's behavior.
+Write unit tests for the new classes and methods:
+Create a new test class or extend the existing AnimalTests class.
+Write tests to validate the behavior of your new classes and their custom methods. - most important part
+Make sure your tests cover different scenarios and edge cases.
+* Cover the main app functionality with unit tests:
+Refactor the main app functionality into a separate class (e.g., AnimalController or AnimalManager).
+This class should include methods for adding animals, removing animals, and performing operations on the animals (e.g., making them speak).
+Write unit tests for the methods in the new class, ensuring that the main app functionality is covered.
