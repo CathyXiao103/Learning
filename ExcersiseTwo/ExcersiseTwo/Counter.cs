@@ -16,4 +16,8 @@ public class Counter
         InstanceCount++;
         TotalCount++;
     }
+    public Counter(int instanceCount)
+    {
+        InstanceCount = instanceCount;
+    }
 }

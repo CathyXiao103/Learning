@@ -11,8 +11,8 @@ public class CounterTest
     [Test]
     public void Test_Tnitial_InstanceCountandTotalCount()
     {
-        //Counter counter1 = new Counter();      
-        //Assert.AreEqual(1, counter1.InstanceCount);
+        Counter counter1 = new Counter(0);      
+        Assert.AreEqual(0, counter1.InstanceCount);
         Assert.AreEqual(0, Counter.TotalCount);
     }
     [Test]
