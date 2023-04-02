@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj": {}
+    "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj": {
+    "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj",
+        "projectUniqueName": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj",
         "projectName": "ExcersiseOne",
-        "projectPath": "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj",
+        "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj",
         "packagesPath": "C:\\Users\\CXIAO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOne\\obj\\",
+        "outputPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CXIAO\\AppData\\Roaming\\NuGet\\NuGet.Config",

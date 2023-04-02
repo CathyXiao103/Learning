@@ -3979,11 +3979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOneTests\\ExcersiseOneTests.csproj",
+      "projectUniqueName": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOneTests\\ExcersiseOneTests.csproj",
       "projectName": "ExcersiseOneTests",
-      "projectPath": "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOneTests\\ExcersiseOneTests.csproj",
+      "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOneTests\\ExcersiseOneTests.csproj",
       "packagesPath": "C:\\Users\\CXIAO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOneTests\\obj\\",
+      "outputPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOneTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CXIAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4000,8 +4000,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj": {
-              "projectPath": "C:\\Users\\CXIAO\\Downloads\\ExcersiseOne (1)\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj"
+            "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj": {
+              "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseOne\\ExcersiseOne\\ExcersiseOne.csproj"
             }
           }
         }

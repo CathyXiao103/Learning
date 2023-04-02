@@ -19,5 +19,8 @@ public class Counter
     public Counter(int instanceCount)
     {
         InstanceCount = instanceCount;
+
+
+
     }
 }

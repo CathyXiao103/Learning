@@ -1,0 +1,15 @@
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\bin\Debug\net6.0\ExcersiseTwo.exe
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\bin\Debug\net6.0\ExcersiseTwo.deps.json
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\bin\Debug\net6.0\ExcersiseTwo.runtimeconfig.json
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\bin\Debug\net6.0\ExcersiseTwo.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\bin\Debug\net6.0\ExcersiseTwo.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.csproj.AssemblyReference.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.AssemblyInfoInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.AssemblyInfo.cs
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.csproj.CoreCompileInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\refint\ExcersiseTwo.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ExcersiseTwo.genruntimeconfig.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseTwo\ExcersiseTwo\obj\Debug\net6.0\ref\ExcersiseTwo.dll
