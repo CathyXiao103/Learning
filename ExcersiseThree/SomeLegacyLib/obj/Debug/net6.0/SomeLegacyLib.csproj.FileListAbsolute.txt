@@ -1,0 +1,15 @@
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\bin\Debug\net6.0\SomeLegacyLib.exe
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\bin\Debug\net6.0\SomeLegacyLib.deps.json
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\bin\Debug\net6.0\SomeLegacyLib.runtimeconfig.json
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\bin\Debug\net6.0\SomeLegacyLib.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\bin\Debug\net6.0\SomeLegacyLib.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.csproj.AssemblyReference.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.AssemblyInfoInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.AssemblyInfo.cs
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.csproj.CoreCompileInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\refint\SomeLegacyLib.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\SomeLegacyLib.genruntimeconfig.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseThree\SomeLegacyLib\obj\Debug\net6.0\ref\SomeLegacyLib.dll

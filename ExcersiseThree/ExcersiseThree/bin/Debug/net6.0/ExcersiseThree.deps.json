@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExcersiseThree/1.0.0": {
+        "dependencies": {
+          "SomeLegacyLib": "1.0.0"
+        },
+        "runtime": {
+          "ExcersiseThree.dll": {}
+        }
+      },
+      "SomeLegacyLib/1.0.0": {
+        "runtime": {
+          "SomeLegacyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcersiseThree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SomeLegacyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

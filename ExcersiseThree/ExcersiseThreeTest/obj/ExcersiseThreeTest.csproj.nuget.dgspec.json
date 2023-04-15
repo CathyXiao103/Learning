@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThreeTest\\ExcersiseThreeTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThreeTest\\ExcersiseThreeTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThreeTest\\ExcersiseThreeTest.csproj",
+        "projectName": "ExcersiseThreeTest",
+        "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThreeTest\\ExcersiseThreeTest.csproj",
+        "packagesPath": "C:\\Users\\CXIAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThreeTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CXIAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://teamcity.barfoot.co.nz/guestAuth/app/nuget/feed/_Root/default/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThree\\ExcersiseThree.csproj": {
+                "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThree\\ExcersiseThree.csproj"
+              },
+              "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\SomeLegacyLib.csproj": {
+                "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\SomeLegacyLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThree\\ExcersiseThree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThree\\ExcersiseThree.csproj",
+        "projectName": "ExcersiseThree",
+        "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThree\\ExcersiseThree.csproj",
+        "packagesPath": "C:\\Users\\CXIAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\ExcersiseThree\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CXIAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://teamcity.barfoot.co.nz/guestAuth/app/nuget/feed/_Root/default/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\SomeLegacyLib.csproj": {
+                "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\SomeLegacyLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\SomeLegacyLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\SomeLegacyLib.csproj",
+        "projectName": "SomeLegacyLib",
+        "projectPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\SomeLegacyLib.csproj",
+        "packagesPath": "C:\\Users\\CXIAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CXIAO\\Documents\\Work Management\\Learning\\ExcersiseThree\\SomeLegacyLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CXIAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://teamcity.barfoot.co.nz/guestAuth/app/nuget/feed/_Root/default/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

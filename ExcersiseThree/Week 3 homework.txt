@@ -1,0 +1,16 @@
+Exercise instructions:
+	1,Add more Pokemons into a Legacy Library and use them in Program
+	2,Maybe refactor the code if you have some ideas
+	3,Create a new .NET test project using Xunit.
+		Create test classes for the LegacyAnimalAdaptor classes.
+		Verify the LegacyAnimalAdaptor class correctly calls the legacy method (e.g., SpeakLegacy) of the Pikachu object and returns the correct value when calling the Speak method.
+
+
+
+
+
+
+
+
+
+
