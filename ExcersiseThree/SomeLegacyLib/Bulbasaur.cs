@@ -13,7 +13,7 @@ public class Bulbasaur:ILegacyAnimal
     {
         return $"{Name} says buhl buh saw!";
     }
-    public new string LegacyColourMethod()
+    public string LegacyColourMethod()
     {
         return $"{Name} is Green!";
     }
