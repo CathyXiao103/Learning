@@ -12,6 +12,7 @@ public class LegacyAnimalAdapterTests
     [Test]
     public void Pikuchu_Test()
     {
+        //Arrage
         var dog = new Dog("Felix","woof","brown");
         var legacyPikachu = new Pikachu("Pikachu");
         var pikachu = new LegacyAnimalAdapter(legacyPikachu);
@@ -20,7 +21,7 @@ public class LegacyAnimalAdapterTests
             dog,
             pikachu
         };
-
+        //Act & Assert
         foreach (var animal in animals)
         {
             //Console.WriteLine($"animal name is: {animal.Name}");
