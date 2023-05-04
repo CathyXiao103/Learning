@@ -6,6 +6,12 @@ Exercise instructions:
 		Verify the LegacyAnimalAdaptor class correctly calls the legacy method (e.g., SpeakLegacy) of the Pikachu object and returns the correct value when calling the Speak method.
 
 
+2024/4/28
+Inversion of Control (IoC) is a broader design principle that involves inverting the flow of control in a system, so that components are not responsible for creating or managing their own dependencies. Instead, the dependencies are managed by an external entity, such as an IoC container. Dependency Injection is a specific implementation of the IoC principle.
+In other words:
+we create our object and pass it through to classes, hence "injection"
+another question is - why?  to answer that, you need to write and continue writing unit tests
+because beaty with injection pattern starts there, that you can fake your objects so you can test your class without thinking about injected one
 
 
 
