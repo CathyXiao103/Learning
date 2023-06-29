@@ -8,9 +8,9 @@ namespace ExcersiseSix;
 
 public class UserPermissionService : IUserPermissionService
 {
-    public bool UserHasAccess(string userID)
+    public bool UserHasAccess(string userId)
     {
-        if (userID == null)
+        if (userId == null)
             return false;
         return true;
     }
