@@ -10,7 +10,7 @@ public class LegacyAnimalAdapterTests
     }
 
     [Test]
-    public void LegacyAnimalAdapter_TestSpeak()
+    public void LegacyAnimalAdapterforpikachuSpeak_Returnsuccessspeak()
     {
         //Arrange
         var legacyPikachu = new Pikachu("Pikachu");
