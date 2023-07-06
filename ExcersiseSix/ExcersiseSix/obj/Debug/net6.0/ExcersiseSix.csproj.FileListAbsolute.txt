@@ -1,0 +1,15 @@
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\bin\Debug\net6.0\ExcersiseSix.exe
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\bin\Debug\net6.0\ExcersiseSix.deps.json
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\bin\Debug\net6.0\ExcersiseSix.runtimeconfig.json
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\bin\Debug\net6.0\ExcersiseSix.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\bin\Debug\net6.0\ExcersiseSix.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.csproj.AssemblyReference.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.AssemblyInfoInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.AssemblyInfo.cs
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.csproj.CoreCompileInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\refint\ExcersiseSix.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ExcersiseSix.genruntimeconfig.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\ExcersiseSix\ExcersiseSix\obj\Debug\net6.0\ref\ExcersiseSix.dll

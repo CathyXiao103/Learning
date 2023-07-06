@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-namespace SomeLegacyLib;
+﻿namespace SomeLegacyLib;
 
 public interface ILegacyAnimal
 {

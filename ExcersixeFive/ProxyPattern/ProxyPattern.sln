@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{D0030C13-D06E-4667-97E1-DB5AAA882F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPatternTest", "ProxyPatternTest\ProxyPatternTest.csproj", "{527F582B-1926-4608-BEED-461EB52FBFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0030C13-D06E-4667-97E1-DB5AAA882F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0030C13-D06E-4667-97E1-DB5AAA882F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0030C13-D06E-4667-97E1-DB5AAA882F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0030C13-D06E-4667-97E1-DB5AAA882F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527F582B-1926-4608-BEED-461EB52FBFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527F582B-1926-4608-BEED-461EB52FBFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527F582B-1926-4608-BEED-461EB52FBFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527F582B-1926-4608-BEED-461EB52FBFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE59E470-856D-44FB-A567-03507EA25E15}
+	EndGlobalSection
+EndGlobal
