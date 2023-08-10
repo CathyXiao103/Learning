@@ -1,0 +1,4 @@
+Run the project, fill in the missing links to make it build and run, see if it works as you expect it
+Add two more concrete Pokémon classes (e.g., Bulbasaur and Squirtle) with their own attack methods.
+Modify the PokemonFactory class to handle the creation of the new Pokémon types.
+Update the client code to demonstrate the creation and setting different attack strategies with Pokémon objects.

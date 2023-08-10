@@ -1,0 +1,15 @@
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\bin\Debug\net6.0\FactoryAndStrategy.exe
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\bin\Debug\net6.0\FactoryAndStrategy.deps.json
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\bin\Debug\net6.0\FactoryAndStrategy.runtimeconfig.json
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\bin\Debug\net6.0\FactoryAndStrategy.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\bin\Debug\net6.0\FactoryAndStrategy.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.csproj.AssemblyReference.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.AssemblyInfoInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.AssemblyInfo.cs
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.csproj.CoreCompileInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\refint\FactoryAndStrategy.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\FactoryAndStrategy.genruntimeconfig.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\FactoryAndStrategy\obj\Debug\net6.0\ref\FactoryAndStrategy.dll
