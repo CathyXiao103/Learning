@@ -4,6 +4,6 @@ namespace FactoryAndStrategy;
 
 public interface IPokemon
 {
-    void Attack();
+    public string Attack();
     void SetNewStrategy(IPokemonAttackStrategy newAttackStrategy);
 }

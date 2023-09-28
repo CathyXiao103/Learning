@@ -19,9 +19,9 @@ public class Pikachu:IPokemon
         _attackStrategy = attackStrategy;
     }
 
-    public void Attack()
+    public string Attack()
     {
-        _attackStrategy.Attack(_name);
+        return _attackStrategy.Attack(_name);
     }
 
     public void SetNewStrategy(IPokemonAttackStrategy newAttackStrategy)

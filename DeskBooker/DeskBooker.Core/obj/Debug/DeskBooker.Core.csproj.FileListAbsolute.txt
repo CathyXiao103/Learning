@@ -1,0 +1,15 @@
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\DeskBooker.Core.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\DeskBooker.Core.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\obj\Debug\DeskBooker.Core.csproj.AssemblyReference.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\obj\Debug\DeskBooker.Core.csproj.CoreCompileInputs.cache
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\obj\Debug\DeskBooker.Core.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\obj\Debug\DeskBooker.Core.pdb
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\Castle.Core.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\Moq.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\Castle.Core.xml
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\Moq.xml
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CXIAO\Documents\Work Management\Learning\DeskBooker\DeskBooker.Core\obj\Debug\DeskBooker.Core.csproj.CopyComplete

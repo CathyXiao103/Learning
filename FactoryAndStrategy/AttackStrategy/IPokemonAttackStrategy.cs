@@ -2,5 +2,5 @@
 
 public interface IPokemonAttackStrategy
 {
-    void Attack(string attacker);
+    string Attack(string attacker);
 }

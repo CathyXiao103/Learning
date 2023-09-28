@@ -2,8 +2,8 @@
 
 public class ElectricAttack : IPokemonAttackStrategy
 {
-    public void Attack(string attackerName)
+    public string Attack(string attackerName)
     {
-        Console.WriteLine($"{attackerName} used electric bolt.");
+        return $"{attackerName} used electric bolt.";
     }
 }

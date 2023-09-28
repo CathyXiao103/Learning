@@ -2,9 +2,9 @@
 
 public class WaterblastAttack : IPokemonAttackStrategy
 {
-    public void Attack(string attackerName)
+    public string Attack(string attackerName)
     {
-        Console.WriteLine($"{attackerName} used WaterblastAttack!");
+        return $"{attackerName} used WaterblastAttack!";
     }
 
     public void Attack()

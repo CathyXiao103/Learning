@@ -13,9 +13,9 @@ public class Charmander : IPokemon
         _attackStrategy = new FireboltAttack();
     }
 
-    public void Attack()
+    public string Attack()
     {
-        _attackStrategy.Attack(_name);
+       return  _attackStrategy.Attack(_name);
     }
 
     public void SetNewStrategy(IPokemonAttackStrategy newAttackStrategy)

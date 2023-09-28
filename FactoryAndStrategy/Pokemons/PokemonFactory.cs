@@ -2,7 +2,7 @@
 
 namespace FactoryAndStrategy.Pokemons;
 
-internal class PokemonFactory
+public class PokemonFactory
 {
     public static IPokemon CreatePokemon(string name, string type)
     {

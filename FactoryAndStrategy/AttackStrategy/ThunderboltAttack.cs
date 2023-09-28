@@ -2,9 +2,9 @@
 
 public class ThunderboltAttack : IPokemonAttackStrategy
 {
-    public void Attack(string attackerName)
+    public string Attack(string attackerName)
     {
-        Console.WriteLine($"{attackerName} used ThunderboltAttack!");
+       return $"{attackerName} used ThunderboltAttack!";
     }
 
     public void Attack()
