@@ -138,8 +138,7 @@ namespace SnakeAndLaddersTest
             //Assert
             Assert.AreEqual(expectedPositionAfterMove, player.Position);
         }
-
-
+        
         [Test]
         public void PlayerLandsOnLadderAndMovesUp()
         {

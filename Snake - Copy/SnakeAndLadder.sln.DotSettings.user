@@ -1,6 +1,8 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c85f914_002Dd48d_002D41a1_002D964b_002D93cf13cada37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GameBoardExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::0E00A4D8-D251-4C33-892C-31C95D6113F7::net8.0::SnakeAndLaddersTest.SnakeAndLaddersGameTests.GameBoardExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0E00A4D8-D251-4C33-892C-31C95D6113F7::net8.0::SnakeAndLaddersTest.SnakeAndLaddersGameTests.WhenGameInitializedMapIsReadyWithLaddersAndLaddersInTheCorrectPositions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0E00A4D8-D251-4C33-892C-31C95D6113F7::net8.0::SnakeAndLaddersTest.SnakeAndLaddersGameTests.WhenGameInitializedMapIsReadyWithSnakesAndSnakesInTheCorrectPositions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0E00A4D8-D251-4C33-892C-31C95D6113F7::net8.0::SnakeAndLaddersTest.SnakeAndLaddersGameTests.GameBoardExistsWith72Tiles&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
