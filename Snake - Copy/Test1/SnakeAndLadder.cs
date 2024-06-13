@@ -10,23 +10,17 @@ namespace SnakeAndLadderGame
     public class SnakeAndLaddersGame
     {
         //private SnakeLadderMap gameMap;
-        public GameMap gameMap;
-        public bool PlayerCanStart { get; set; } = false;
-        public int Position { get; set; }
-
+        public List<Tile> GameMap { get;  set; }
         public SnakeAndLaddersGame()
         {
-            // Initialize the game map
-            gameMap = new GameMap();
-
+            GameMap = InitializeMap().ToList();
         }
-
         public IEnumerable<Tile> InitializeMap()
         {
             var map = new List<Tile>();
             for (var i = 0; i < 72; i++)
             {
-                if (i == 2)
+                if (i == 7)
                 {
                     map.Add(new Tile() { PositionToTakeTo = 3, TileType = TileType.Snake });
                     continue;
@@ -47,23 +41,10 @@ namespace SnakeAndLadderGame
         {
             return "Hello, Player. Roll the dice.";
         }
-        public int DiceRoll()
+    
+        public Player InitializePlayer(string playerName)
         {
-            Random random = new Random();
-            return random.Next(1, 7);
-        }
-
-
-        public bool PlayerStartPosition(int diceNumber)
-        {
-            if (diceNumber == 6)
-                PlayerCanStart = true;
-            return PlayerCanStart; // Test player stays on start until roll 6
-        }
-
-        public bool PlayerWin(int position)
-        {
-            return position == 9; // Position 9 is the winning position
+            return new Player(playerName);
         }
     }
 
