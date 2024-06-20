@@ -80,6 +80,7 @@ namespace SnakeAndLaddersTest
 
             //Act
             var player = snakeAndLadderGame.InitializePlayer(expectedPlayerName);
+            
             //Assert
             Assert.AreEqual(expectedPostion,player.Position);
             //Assert.AreEqual(expectedPlayerName,player.PlayerName);

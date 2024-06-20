@@ -1,11 +1,4 @@
 ﻿namespace SomeLegacyLib;
-
-public interface ILegacyAnimal
-{
-    string LegacySpeakMethod();
-    string LegacyColourMethod();
-}
-
 public class Pikachu:ILegacyAnimal
 {
     protected string Name { get; set; }
