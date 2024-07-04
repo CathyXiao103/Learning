@@ -48,6 +48,7 @@ while (player1.Position < board.NumberOfTiles)
         Console.WriteLine("Game Over");
         break;
     }
+    Thread.Sleep(1000);
 }
 
 int RollDice()
