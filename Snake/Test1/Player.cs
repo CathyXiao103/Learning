@@ -11,5 +11,10 @@ namespace SnakeAndLadderGame
         public int Position { get; set; }
         public string Name { get; set; }
 
+        public int RollDice()
+        {
+            Random random = new Random();
+            return random.Next(1, 7);
+        }
     }
 }
