@@ -6,14 +6,22 @@ var board = new GameBoard() { NumberOfTiles = 72 };
 
 var ladders = new List<Ladder>()
 {
-    new Ladder() {Position = 3, TargetPosition = 7},
-    new Ladder() {Position = 20,TargetPosition = 40}
+    new Ladder() {Position = 4, TargetPosition = 14},
+    new Ladder() {Position = 9, TargetPosition = 31},
+    new Ladder() {Position = 21, TargetPosition = 42},
+    new Ladder() {Position = 28, TargetPosition = 65},
+    new Ladder() {Position = 38, TargetPosition = 68},
+    new Ladder() {Position = 51,TargetPosition = 67}
 };
 
 var snakes = new List<Snake>()
 {
     new Snake(){Position = 16,TargetPosition = 6},
-    new Snake(){Position = 47,TargetPosition = 26}
+    new Snake(){Position = 18,TargetPosition = 9},
+    new Snake(){Position = 31,TargetPosition = 16},
+    new Snake(){Position = 38,TargetPosition = 1},
+    new Snake(){Position = 52,TargetPosition = 26},
+    new Snake(){Position = 63,TargetPosition = 18},
 };
 void CheckForLadder()
 {
@@ -41,8 +49,41 @@ void CheckForGameEnd()
         Console.WriteLine("Game Over");
     }
 }
+
+void DrawBoard()
+{
+    Console.Clear();
+    for (int i = 1; i <= board.NumberOfTiles; i++)
+    {
+        if (i == player1.Position)
+        {
+            Console.Write("P ");
+        }
+        else if (ladders.Any(l => l.Position == i))
+        {
+            Console.Write("L ");
+        }
+        else if (snakes.Any(s => s.Position == i))
+        {
+            Console.Write("S ");
+        }
+        else
+        {
+            Console.Write("* ");
+        }
+
+        if (i % 9 == 0)
+        {
+            Console.WriteLine();
+        }
+    }
+    Console.WriteLine();
+}
+
 while (player1.Position < board.NumberOfTiles)
 {
+    DrawBoard();
+
     // Roll the dice
     var diceRoll = player1.RollDice();
     Console.WriteLine($"Player rolled a {diceRoll}.");
