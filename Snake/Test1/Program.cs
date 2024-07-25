@@ -1,4 +1,6 @@
-﻿using SnakeAndLadderGame;
+﻿using Raylib_cs;
+using System.Numerics;
+using SnakeAndLadderGame;
 
 var player1 = new Player() { Position = 0 };
 
@@ -11,7 +13,7 @@ var ladders = new List<Ladder>()
     new Ladder() {Position = 21, TargetPosition = 42},
     new Ladder() {Position = 28, TargetPosition = 65},
     new Ladder() {Position = 38, TargetPosition = 68},
-    new Ladder() {Position = 51,TargetPosition = 67}
+    new Ladder() {Position = 60,TargetPosition = 67}
 };
 
 var snakes = new List<Snake>()
@@ -21,7 +23,7 @@ var snakes = new List<Snake>()
     new Snake(){Position = 31,TargetPosition = 16},
     new Snake(){Position = 38,TargetPosition = 1},
     new Snake(){Position = 52,TargetPosition = 26},
-    new Snake(){Position = 63,TargetPosition = 18},
+    new Snake(){Position = 68,TargetPosition = 18},
 };
 void CheckForLadder()
 {
@@ -42,46 +44,72 @@ void CheckForSnake()
         Console.WriteLine($"Player landed on a snake! Moved to position {player1.Position}.");
     }
 }
-void CheckForGameEnd()
+bool CheckForGameEnd()
 {
     if (player1.Position >= board.NumberOfTiles)
     {
         Console.WriteLine("Game Over");
+        return true;
     }
-}
 
+    return false;
+}
+const int screenWidth = 720;
+const int screenHeight = 720;
+Raylib.InitWindow(screenWidth, screenHeight, "Snake and Ladder");
+Raylib.SetTargetFPS(60);
 void DrawBoard()
 {
-    Console.Clear();
-    for (int i = 1; i <= board.NumberOfTiles; i++)
-    {
-        if (i == player1.Position)
-        {
-            Console.Write("P ");
-        }
-        else if (ladders.Any(l => l.Position == i))
-        {
-            Console.Write("L ");
-        }
-        else if (snakes.Any(s => s.Position == i))
-        {
-            Console.Write("S ");
-        }
-        else
-        {
-            Console.Write("* ");
-        }
 
-        if (i % 9 == 0)
+    int rows = 8;
+    int cols = 9;
+    int cellSize = 80; // Size of each cell in pixels
+    for (int y = 0; y < rows; y++)
+    {
+        for (int x = 0; x < cols; x++)
         {
-            Console.WriteLine();
+            int posX = x * cellSize;
+            int posY = y * cellSize;
+
+            // Draw cell
+            Color cellColor = Color.LightGray;
+            Raylib.DrawRectangle(posX, posY, cellSize, cellSize, cellColor);
+            Raylib.DrawRectangleLines(posX, posY, cellSize, cellSize, Color.Black);
+
+            // Calculate cell number
+            int cellNumber = (cols * y) + ((y % 2 == 0) ? x : (cols - 1 - x)) + 1;
+
+            // Draw cell number
+            Raylib.DrawText(cellNumber.ToString(), posX + 10, posY + 10, 20, Color.Black);
+
+            // Draw player
+            if (cellNumber == player1.Position)
+            {
+                Raylib.DrawCircle(posX + cellSize / 2, posY + cellSize / 2, cellSize / 4, Color.Red);
+            }
+
+            // Draw ladders
+            if (ladders.Any(l => l.Position == cellNumber))
+            {
+                Raylib.DrawText("L", posX + cellSize / 2, posY + cellSize / 2, 20, Color.Green);
+            }
+
+            // Draw snakes
+            if (snakes.Any(s => s.Position == cellNumber))
+            {
+                Raylib.DrawText("S", posX + cellSize / 2, posY + cellSize / 2, 20, Color.Blue);
+            }
         }
     }
+
     Console.WriteLine();
 }
 
-while (player1.Position < board.NumberOfTiles)
+while (!CheckForGameEnd())
 {
+   
+    Raylib.BeginDrawing();
+    Raylib.ClearBackground(Color.RayWhite);
     DrawBoard();
 
     // Roll the dice
@@ -96,8 +124,9 @@ while (player1.Position < board.NumberOfTiles)
     CheckForLadder();
     // Check if the player landed on a snake
     CheckForSnake();
-
-    // Check if the game ends
-    CheckForGameEnd();
+    Raylib.DrawText($"Player rolled a {diceRoll}", 10, screenHeight - 60, 20, Color.Black);
+    Raylib.DrawText($"Player moved to position {player1.Position}", 10, screenHeight - 30, 20, Color.Black);
+    Raylib.EndDrawing();
     Thread.Sleep(1000);
 }
+
